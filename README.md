@@ -1,4 +1,4 @@
-# Fortunes-Guide-to-Online-Anonymity
+# Quinns-Guide-to-Online-Anonymity
 ## Recommended mobile operating systems
 ### Android based: 
 -   [**GrapheneOS**](https://grapheneos.org/) A free and open-sourced privacy focused Operating System, formerly known as CopperheadOS.
