@@ -24,6 +24,8 @@
   
 -   [**HeadsOS GNU/Linux-Libre**](https://heads.dyne.org/) HeadsOS is bascially just hardened TailsOS. It uses OpenRC as it's init system unlike systemd which is used in many distros and will probably be exploited one day or another, and it also uses the fully free, FSF Approved, Linux-Libre Kernel which rids of all the binary blobs and obfuscated code in the Linux kernel therefore making it more free and secure than TailsOS. It also has all the features that TailsOS has of course.
 
+### BSD??!11!
+
 ## Recommended browsers
 ### Chromium Based:
 -   [**Brave**](https://brave.com/) I wouldn't recommend this because of how bloated it is. It has weird cryptocurrency shinnanagins. But it's open-source and you can ignore all that.
