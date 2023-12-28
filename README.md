@@ -7,10 +7,14 @@
 ### Linux Based:
 -   [**PureOS**](https://www.pureos.net/) A free and open-sourced Operating System. It's FSF approved and it utilised the GNU's Linux Libre kernel. It's Debian Stable based I think. It comes with GNU CoreUtils
 -   [**postmarketOS**](https://postmarketos.org/) A unique free Operating System. Based off of [**Alphine Linux**](https://www.alpinelinux.org/) so I'm not quite sure if it has GNU CoreUtils
+## Recommended Desktop operating systems
+### (GNU+)Linux(-Libre)-based distros:
+-   [**NixOS**](https://nixos.org/) NixOS is an easily reproducable, independent, 
+
 ## Recommended browsers
 ### Chromium Based:
--   [**Brave**](https://brave.com/) A free and open-sourced browser with a built in ad and tracker blocker, with their own privacy-respecting search engine. Easy to switch to from Chrome.
--   [**Bromite**](https://www.bromite.org/) Android only. Free and open-sourced with a UI almost exactly like Chrome and comes with an ad-blocker.
+-   [**Brave**](https://brave.com/) I wouldn't recommend this because of how bloated it is. It has weird cryptocurrency shinnanagins. But it's open-source and you can ignore all that. 
+-   [**Bromite**](https://www.bromite.org/) Android only. Free and open-sourced with a UI almost exactly like Chromium and comes with an ad-blocker.
 -   [**ungoogled-chromium**](https://github.com/ungoogled-software/ungoogled-chromium) Completely blocks anything related to Google. Unlike Chromium, ungoogled-chromium doesnt call home to Google. Fully free.
 ### Firefox Based:
 -   [**Firefox (w/user.js)**](https://www.mozilla.org/en-US/firefox/new/) Link goes to Firefox. Link to a user.js (arkenfox) [**here**](https://github.com/arkenfox/user.js/). Both free and open-sourced and the user.js you can modify to the amount of privacy and anonymity you yearn for. Can't be done on IOS and Android.
@@ -50,3 +54,6 @@
 -   [**Libreboot**](https://libreboot.org)
 
     **❗❗WARNING THIS MAY BRICK YOUR COMPUTER IF POSSIBLE BUY A LAPTOP OR A MOTHERBOARD WITH COREBOOT/LIBREBOOT PREINSTALLED❗❗**
+
+# License
+This text is licensed in the Unlicense License which is a Public Domain License. You are free to do whatever you want with it such as; rebrand it as your own and commercialise it, sell verbatim copies, modify it, say you made this and tell people how bad of a writer you are, etc but with with **ZERO** warranty at **ALL**. For more information, read [this](https://github.com/fortunef/Quinns-Guide-to-Online-Anonymity/blob/main/LICENSE)
