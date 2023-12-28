@@ -86,4 +86,4 @@
     **❗❗WARNING THIS MAY BRICK YOUR COMPUTER IF POSSIBLE BUY A LAPTOP OR A MOTHERBOARD WITH COREBOOT/LIBREBOOT PREINSTALLED FOR EXAMPLE, SYSTEM76 LAPTOPS OR A FRAMEWORK LAPTOP WITH COMES WITH ITS OWN OPEN SOURCE FIRMWARE❗❗**
 
 # License
-This text is licensed in the Unlicense License which is a Public Domain License. You are free to do whatever you want with it such as; rebrand it as your own and commercialise it, sell verbatim copies, modify it, say you made this and tell people how bad of a writer you are, etc but with with **ZERO** warranty at **ALL**. For more information, read [this](https://github.com/fortunef/Quinns-Guide-to-Online-Anonymity/blob/main/LICENSE)
+This text is licensed in the Unlicense License which is a Public Domain License. You are free to do whatever you want with it such as; rebrand it as your own and commercialise it, sell verbatim copies, modify it, say you made this and tell people how bad of a writer you are, etc but with with **ZERO WARRANTY WHATSOEVER**. For more information, read [this](https://github.com/fortunef/Quinns-Guide-to-Online-Anonymity/blob/main/LICENSE)
