@@ -1,7 +1,7 @@
 # Quinns-Guide-to-Online-Anonymity
 ## Recommended mobile operating systems
 ### Android based: 
--   [**GrapheneOS**](https://grapheneos.org/) A free and open-sourced privacy focused Operating System, formerly known as CopperheadOS.
+-   [**GrapheneOS**](https://grapheneos.org/) Formerly known as CopperheadOS is a FLOSS privacy focused Operating System that's a replacement for all the nonfree services included in Google's, Google Pixel Devices.
 -   [**CalyxOS**](https://calyxos.org/) A open-sourced privacy focused Operating System with a UI similar to a Google Pixel comes with mostly free and open-sourced software pre-installed.
 -   [**DivestOS**](https://divestos.org/) A free and open-sourced that's FOSS focused. Based off of [**LineageOS**](https://lineageos.org/).
 ### Linux Based:
@@ -9,7 +9,11 @@
 -   [**postmarketOS**](https://postmarketos.org/) A unique free Operating System. Based off of [**Alphine Linux**](https://www.alpinelinux.org/) so I'm not quite sure if it has GNU CoreUtils
 ## Recommended Desktop operating systems
 ### (GNU+)Linux(-Libre)-based distros:
--   [**NixOS**](https://nixos.org/) NixOS is an easily reproducable, independent, 
+-   [**NixOS Unstable (24.05)**](https://nixos.org/) This is the operating system that I personally utilise as my daily driver and i'm using it right now to type this out. NixOS is an easily reproducable, independent, immutable, general purpose, and fast operating system. It has the most packages in a Linux distro/Package Manager/MacOS Package Manager infront of the AUR. By default, it doesn't come with any nonfree software or any bloat either. This distrobution of the GNU/Linux operating system is based around the Nix package manager aka. the best package manager in the world. Theres 2 stable updates per year. The way you configure your whole system is within one file (/etc/nixos/configuration.nix) you can start & install services, packages, from that one file. It's sorta easy to learn atleast for me because I'm autistic but I digress.
+  
+-   [**Arch Linux**](https://archlinux.org/) A hard to install, easy to use, lightweight GNU/Linux operating system. It comes with a traditional package manager (pacman) to install software from the official repos. This distro is very hard to install because you have to install it using a CLI so you'll probably need a pair of programmming socks for this but once you've installed it, it's pretty simple. The main feature of this distro is the AUR (Arch User Repository) which is where anyone can upload anything to there. This brings alot of freedom but security issues aswell but in my time using Arch Linux, I've never gotten malware from there.
+ 
+-   [**Fedora Silverblue**](https://fedoraproject.org/silverblue/) A ton of people call this distro the best immutable distrobution ever. I've never tried it but it looks like it's very secure and stable
 
 ## Recommended browsers
 ### Chromium Based:
