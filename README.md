@@ -64,11 +64,11 @@
 -   [**Startpage**](https://www.startpage.com/) Gets its results from Google. Ran by an advertising company if that's a concern.
    
 ## Privacy oriented DNS
-~~-   [**AdGuard**](https://adguard-dns.io/en/welcome..html)~~
-~~[**NextDNS**](https://nextdns..io)~~
-~~[**Quad9**](https://www.quad9..net/)~~
+~~-   [**AdGuard**](https://xadguard-dns.io/en/welcome..html)~~
+~~[**NextDNS**](https://xnextdns..io)~~
+~~[**Quad9**](https://xwww.quad9..net/)~~
 
-**❗❗DO NOT USE FOR THEY ARE FREE AND IN CAPITALISM, IF SOMETHING IS FREE YOU ARE 9 OUT of 10 TIMES THE PRODUCT AND THE ADVERTSERS THE CUSTOMERS INSTEAD JUST PAY FOR A VPN LIKE MULLVAD OR PROTON VPN WHICH HAS THERE OWN DNS AND THEIR CLIENTS ARE BOTH OPEN SOURCE I ADDED AN EXTRA DOT TO THE LINKS SO IF YOU REALLY WANT TO YOU USE IT YOU CAN REMOVE IT❗❗**
+**❗❗DO NOT USE FOR THEY ARE FREE AND IN CAPITALISM, IF SOMETHING IS FREE YOU ARE 9 OUT of 10 TIMES THE PRODUCT AND THE ADVERTSERS THE CUSTOMERS INSTEAD JUST PAY FOR A VPN LIKE MULLVAD OR PROTON VPN WHICH HAS THERE OWN DNS AND THEIR CLIENTS ARE BOTH OPEN SOURCE I ADDED AN EXTRA DOT AND AN X AT THE START TO THE LINKS SO IF YOU REALLY WANT TO YOU USE IT YOU CAN REMOVE IT❗❗**
 ## Privacy oriented email
 -   [**ProtonMail**](https://proton.me/mail) Emails automatically PGP encrypted when communicating with other Proton Mail users for convience. I'd recommend paying for this one instead of the free tier because you get a VPN, (I'd recommend Mullvad VPN because it's pay as you go [I havent paid for Mullvad VPN for like half of the year]) Cloud storage (The cloud is just someone elses computer remember that), Email Aliases, and some other stuff.Community
    
